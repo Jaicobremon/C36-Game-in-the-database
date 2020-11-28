@@ -1,1 +1,2 @@
-# C36-Game-in-the-database
+# synchronousBallMovement
+Ball moving synchronously
